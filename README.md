@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBmdGt2dnQwM3A2Mm01ZG9jcXIyYWdxOGtnOHkyMG84ZDNhdmcwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/noyBeNjH4nbtXV5ZLA/giphy.gif"  />
+<img align="right" height="150" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBmdGt2dnQwM3A2Mm01ZG9jcXIyYWdxOGtnOHkyMG84ZDNhdmcwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/noyBeNjH4nbtXV5ZLA/giphy.gif"  />
 
 ###
 
